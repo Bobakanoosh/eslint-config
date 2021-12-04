@@ -1,25 +1,25 @@
 {
-  "name": "@antfu/eslint-config-vue",
-  "version": "0.12.0",
-  "description": "",
-  "keywords": [],
-  "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com> (https://github.com/antfu/)",
-  "files": [
-    "index.js"
-  ],
-  "main": "index.js",
-  "peerDependencies": {
-    "eslint": ">=7.4.0"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "dependencies": {
-    "@antfu/eslint-config-ts": "^0.12.0",
-    "eslint-plugin-vue": "^8.1.1"
-  },
-  "devDependencies": {
-    "eslint": "^8.3.0"
-  }
+	"name": "@bobakanoosh/eslint-config-vue",
+	"version": "0.12.0",
+	"description": "",
+	"keywords": [],
+	"license": "MIT",
+	"author": "Bobakanoosh (https://github.com/Bobakanoosh/)",
+	"files": [
+		"index.js"
+	],
+	"main": "index.js",
+	"peerDependencies": {
+		"eslint": ">=7.4.0"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"dependencies": {
+		"@bobakanoosh/eslint-config-ts": "^0.12.0",
+		"eslint-plugin-vue": "^8.1.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.3.0"
+	}
 }
