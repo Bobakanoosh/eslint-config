@@ -1,6 +1,6 @@
 {
 	"name": "@bobakanoosh/eslint-config-vue",
-	"version": "0.12.4",
+	"version": "0.12.2",
 	"description": "",
 	"keywords": [],
 	"license": "MIT",
@@ -16,10 +16,10 @@
 		"access": "public"
 	},
 	"dependencies": {
+		"@bobakanoosh/eslint-config-ts": "^0.12.1",
 		"eslint-plugin-vue": "^8.1.1"
 	},
 	"devDependencies": {
 		"eslint": "^8.3.0"
-	},
-	"gitHead": "e37c2bf4b71da1028d58a806bedfd47f4b553b59"
+	}
 }

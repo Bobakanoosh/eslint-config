@@ -1,6 +1,6 @@
 {
 	"name": "@bobakanoosh/eslint-config-ts",
-	"version": "0.12.4",
+	"version": "0.12.1",
 	"description": "",
 	"keywords": [],
 	"license": "MIT",
@@ -17,11 +17,11 @@
 		"typescript": ">=3.9"
 	},
 	"dependencies": {
+		"@bobakanoosh/eslint-config-basic": "^0.12.1",
 		"@typescript-eslint/eslint-plugin": "^5.4.0",
 		"@typescript-eslint/parser": "^5.4.0"
 	},
 	"devDependencies": {
 		"eslint": "^8.3.0"
-	},
-	"gitHead": "e37c2bf4b71da1028d58a806bedfd47f4b553b59"
+	}
 }
