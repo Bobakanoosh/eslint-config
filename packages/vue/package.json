@@ -16,10 +16,10 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@bobakanoosh/eslint-config-ts": "^0.12.1",
 		"eslint-plugin-vue": "^8.1.1"
 	},
 	"devDependencies": {
 		"eslint": "^8.3.0"
-	}
+	},
+	"gitHead": "c654216ee8c3de34e6564e9c21b070f722b74303"
 }
